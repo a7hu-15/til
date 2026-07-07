@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Cherry-Picking Commits](git/git-cherry-pick.md)
 - [Amending the Last Commit](git/git-commit-amend.md)
 - [Recovering Lost Commits with Reflog](git/git-reflog.md)
 - [Finding Bugs with Git Bisect](git/git-bisect.md)
@@ -54,11 +55,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 4 |
-| Git | 3 |
+| Git | 4 |
 | Open Source | 4 |
 | Linux | 4 |
 | Python | 2 |
-| **Total** | **17** |
+| **Total** | **18** |
 
 ---
 
