@@ -8,8 +8,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Git](#git)
 - [Open Source](#open-source)
 - [Linux](#linux)
+## Python
 
----
+- [Using Enumerate in Python](python/python-enumerate.md)
+
 
 ## DevOps
 
@@ -49,7 +51,8 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Git | 3 |
 | Open Source | 2 |
 | Linux | 3 |
-| **Total** | **10** |
+| Python | 1 |
+| **Total** | **11** |
 
 ---
 
