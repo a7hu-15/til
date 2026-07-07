@@ -33,6 +33,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
+- [Bash Brace Expansion](linux/bash-brace-expansion.md)
 - [Extracting Tar Gz Archives](linux/tar-extract.md)
 - [Numeric Permissions in Chmod](linux/chmod-numeric.md)
 - [Grep Context Flags](linux/grep-context.md)
@@ -52,9 +53,9 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 3 |
 | Git | 3 |
 | Open Source | 2 |
-| Linux | 3 |
+| Linux | 4 |
 | Python | 2 |
-| **Total** | **13** |
+| **Total** | **14** |
 
 ---
 
