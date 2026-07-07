@@ -16,6 +16,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## DevOps
 
+- [Docker Compose Detached Mode](devops/docker-compose-up-d.md)
 - [Kubectl Port Forwarding](devops/kubectl-port-forward.md)
 - [Cleaning Up Docker Resources](devops/docker-cleanup.md)
 
@@ -48,12 +49,12 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 
 | Category | Count |
 |----------|-------|
-| DevOps | 2 |
+| DevOps | 3 |
 | Git | 3 |
 | Open Source | 2 |
 | Linux | 3 |
 | Python | 2 |
-| **Total** | **12** |
+| **Total** | **13** |
 
 ---
 
