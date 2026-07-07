@@ -16,6 +16,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## DevOps
 
+- [Syncing Folders with AWS S3](devops/aws-s3-sync.md)
 - [Docker Compose Detached Mode](devops/docker-compose-up-d.md)
 - [Kubectl Port Forwarding](devops/kubectl-port-forward.md)
 - [Cleaning Up Docker Resources](devops/docker-cleanup.md)
@@ -50,12 +51,12 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 
 | Category | Count |
 |----------|-------|
-| DevOps | 3 |
+| DevOps | 4 |
 | Git | 3 |
 | Open Source | 2 |
 | Linux | 4 |
 | Python | 2 |
-| **Total** | **14** |
+| **Total** | **15** |
 
 ---
 
