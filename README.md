@@ -13,7 +13,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## DevOps
 
-- _Coming soon_
+- [Cleaning Up Docker Resources](devops/docker-cleanup.md)
 
 ## Git
 
@@ -42,11 +42,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 
 | Category | Count |
 |----------|-------|
-| DevOps | 0 |
+| DevOps | 1 |
 | Git | 2 |
 | Open Source | 2 |
 | Linux | 2 |
-| **Total** | **6** |
+| **Total** | **7** |
 
 ---
 
