@@ -18,6 +18,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Amending the Last Commit](git/git-commit-amend.md)
 - [Recovering Lost Commits with Reflog](git/git-reflog.md)
 - [Finding Bugs with Git Bisect](git/git-bisect.md)
 
@@ -44,10 +45,10 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 2 |
-| Git | 2 |
+| Git | 3 |
 | Open Source | 2 |
 | Linux | 2 |
-| **Total** | **8** |
+| **Total** | **9** |
 
 ---
 
