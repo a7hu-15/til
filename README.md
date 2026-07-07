@@ -27,7 +27,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
-- _Coming soon_
+- [Grep Context Flags](linux/grep-context.md)
 
 ---
 
@@ -44,8 +44,8 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 0 |
 | Git | 2 |
 | Open Source | 2 |
-| Linux | 0 |
-| **Total** | **4** |
+| Linux | 1 |
+| **Total** | **5** |
 
 ---
 
