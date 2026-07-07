@@ -38,6 +38,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
+- [Monitoring Processes with Top](linux/linux-top-cmd.md)
 - [Bash Brace Expansion](linux/bash-brace-expansion.md)
 - [Extracting Tar Gz Archives](linux/tar-extract.md)
 - [Numeric Permissions in Chmod](linux/chmod-numeric.md)
@@ -58,9 +59,9 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 4 |
 | Git | 5 |
 | Open Source | 4 |
-| Linux | 4 |
+| Linux | 5 |
 | Python | 2 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ---
 
