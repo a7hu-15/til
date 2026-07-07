@@ -29,6 +29,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Open Source
 
+- [Centering a Div with CSS Grid](open-source/css-grid-center.md)
 - [React useEffect Cleanup](open-source/react-useeffect-cleanup.md)
 - [How to Review a Pull Request](open-source/how-to-review-a-pr.md)
 - [Writing Good GitHub Issues](open-source/writing-good-issues.md)
@@ -54,10 +55,10 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 |----------|-------|
 | DevOps | 4 |
 | Git | 3 |
-| Open Source | 3 |
+| Open Source | 4 |
 | Linux | 4 |
 | Python | 2 |
-| **Total** | **16** |
+| **Total** | **17** |
 
 ---
 
