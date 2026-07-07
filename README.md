@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Stashing Changes in Git](git/git-stash-pop.md)
 - [Cherry-Picking Commits](git/git-cherry-pick.md)
 - [Amending the Last Commit](git/git-commit-amend.md)
 - [Recovering Lost Commits with Reflog](git/git-reflog.md)
@@ -55,11 +56,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 4 |
-| Git | 4 |
+| Git | 5 |
 | Open Source | 4 |
 | Linux | 4 |
 | Python | 2 |
-| **Total** | **18** |
+| **Total** | **19** |
 
 ---
 
