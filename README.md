@@ -23,6 +23,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Interactive Git Rebase](git/git-rebase-interactive.md)
 - [Stashing Changes in Git](git/git-stash-pop.md)
 - [Cherry-Picking Commits](git/git-cherry-pick.md)
 - [Amending the Last Commit](git/git-commit-amend.md)
@@ -57,11 +58,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 4 |
-| Git | 5 |
+| Git | 6 |
 | Open Source | 4 |
 | Linux | 5 |
 | Python | 2 |
-| **Total** | **20** |
+| **Total** | **21** |
 
 ---
 
