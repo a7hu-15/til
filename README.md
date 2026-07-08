@@ -39,6 +39,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
+- [Executing Commands on Found Files](linux/find-exec.md)
 - [Monitoring Processes with Top](linux/linux-top-cmd.md)
 - [Bash Brace Expansion](linux/bash-brace-expansion.md)
 - [Extracting Tar Gz Archives](linux/tar-extract.md)
@@ -60,9 +61,9 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 4 |
 | Git | 6 |
 | Open Source | 4 |
-| Linux | 5 |
+| Linux | 6 |
 | Python | 2 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ---
 
