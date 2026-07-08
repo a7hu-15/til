@@ -10,6 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Linux](#linux)
 ## Python
 
+- [Strict Zip in Python](python/python-zip-strict.md)
 - [Iterating Multiple Lists with Zip](python/python-zip.md)
 - [Using Enumerate in Python](python/python-enumerate.md)
 
@@ -63,8 +64,8 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Git | 6 |
 | Open Source | 4 |
 | Linux | 6 |
-| Python | 2 |
-| **Total** | **23** |
+| Python | 3 |
+| **Total** | **24** |
 
 ---
 
