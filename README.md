@@ -25,6 +25,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Compact Git Log](git/git-log-oneline.md)
 - [Interactive Git Rebase](git/git-rebase-interactive.md)
 - [Stashing Changes in Git](git/git-stash-pop.md)
 - [Cherry-Picking Commits](git/git-cherry-pick.md)
@@ -61,11 +62,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 5 |
-| Git | 6 |
+| Git | 7 |
 | Open Source | 4 |
 | Linux | 6 |
 | Python | 3 |
-| **Total** | **24** |
+| **Total** | **25** |
 
 ---
 
