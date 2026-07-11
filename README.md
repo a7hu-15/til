@@ -10,6 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Linux](#linux)
 ## Python
 
+- [FastAPI Dependency Injection with Session](python/fastapi-dependency-injection.md)
 - [Strict Zip in Python](python/python-zip-strict.md)
 - [Iterating Multiple Lists with Zip](python/python-zip.md)
 - [Using Enumerate in Python](python/python-enumerate.md)
@@ -67,8 +68,8 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Git | 8 |
 | Open Source | 5 |
 | Linux | 6 |
-| Python | 3 |
-| **Total** | **27** |
+| Python | 4 |
+| **Total** | **28** |
 
 ---
 
