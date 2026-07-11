@@ -72,8 +72,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Linux | 6 |
 | Python | 4 |
 | Web Development | 1 |
-| **Total** | **29** |
+| Database | 1 |
+| **Total** | **30** |
+## Database
 
----
+- [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
+
 
 _Started on July 6, 2026_ 🚀
