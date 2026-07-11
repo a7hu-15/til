@@ -19,6 +19,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## DevOps
 
+- [Running Alembic Migrations](devops/alembic-migrations-upgrade.md)
 - [Following Docker Logs](devops/docker-logs-follow.md)
 - [Syncing Folders with AWS S3](devops/aws-s3-sync.md)
 - [Docker Compose Detached Mode](devops/docker-compose-up-d.md)
@@ -67,14 +68,14 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 
 | Category | Count |
 |----------|-------|
-| DevOps | 5 |
+| DevOps | 6 |
 | Git | 8 |
 | Open Source | 5 |
 | Linux | 6 |
 | Python | 5 |
 | Web Development | 1 |
 | Database | 1 |
-| **Total** | **31** |
+| **Total** | **32** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
