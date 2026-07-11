@@ -10,6 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Linux](#linux)
 ## Python
 
+- [Pydantic V2 ConfigDict Configuration](python/pydantic-v2-config-dict.md)
 - [FastAPI Dependency Injection with Session](python/fastapi-dependency-injection.md)
 - [Strict Zip in Python](python/python-zip-strict.md)
 - [Iterating Multiple Lists with Zip](python/python-zip.md)
@@ -70,10 +71,10 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Git | 8 |
 | Open Source | 5 |
 | Linux | 6 |
-| Python | 4 |
+| Python | 5 |
 | Web Development | 1 |
 | Database | 1 |
-| **Total** | **30** |
+| **Total** | **31** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
