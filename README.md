@@ -51,8 +51,10 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Extracting Tar Gz Archives](linux/tar-extract.md)
 - [Numeric Permissions in Chmod](linux/chmod-numeric.md)
 - [Grep Context Flags](linux/grep-context.md)
+## Web Development
 
----
+- [Conditional Fetching in TanStack Query](web-development/tanstack-query-conditional.md)
+
 
 ### About
 
@@ -69,7 +71,8 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Open Source | 5 |
 | Linux | 6 |
 | Python | 4 |
-| **Total** | **28** |
+| Web Development | 1 |
+| **Total** | **29** |
 
 ---
 
