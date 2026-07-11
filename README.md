@@ -25,6 +25,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [GitHub Contribution Rules for Forks](git/git-fork-contributions.md)
 - [Compact Git Log](git/git-log-oneline.md)
 - [Interactive Git Rebase](git/git-rebase-interactive.md)
 - [Stashing Changes in Git](git/git-stash-pop.md)
@@ -63,11 +64,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 5 |
-| Git | 7 |
+| Git | 8 |
 | Open Source | 5 |
 | Linux | 6 |
 | Python | 3 |
-| **Total** | **26** |
+| **Total** | **27** |
 
 ---
 
