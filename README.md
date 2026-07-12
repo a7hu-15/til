@@ -29,6 +29,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Viewing Commit History as a Graph](git/git-log-graph.md)
 - [GitHub Contribution Rules for Forks](git/git-fork-contributions.md)
 - [Compact Git Log](git/git-log-oneline.md)
 - [Interactive Git Rebase](git/git-rebase-interactive.md)
@@ -70,13 +71,13 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 6 |
-| Git | 8 |
+| Git | 9 |
 | Open Source | 5 |
 | Linux | 6 |
 | Python | 6 |
 | Web Development | 1 |
 | Database | 1 |
-| **Total** | **33** |
+| **Total** | **34** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
