@@ -78,10 +78,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Linux | 7 |
 | Python | 6 |
 | Web Development | 2 |
-| Database | 1 |
-| **Total** | **36** |
+| Database | 2 |
+| **Total** | **37** |
 ## Database
 
+- [Executing SQL Statements Directly via psql](database/psql-command-execution.md)
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
 
 
