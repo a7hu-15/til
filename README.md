@@ -58,6 +58,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Grep Context Flags](linux/grep-context.md)
 ## Web Development
 
+- [CSS Variable Fallbacks](web-development/css-variable-fallbacks.md)
 - [Conditional Fetching in TanStack Query](web-development/tanstack-query-conditional.md)
 
 
@@ -76,9 +77,9 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Open Source | 5 |
 | Linux | 7 |
 | Python | 6 |
-| Web Development | 1 |
+| Web Development | 2 |
 | Database | 1 |
-| **Total** | **35** |
+| **Total** | **36** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
