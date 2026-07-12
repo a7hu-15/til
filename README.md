@@ -49,6 +49,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
+- [Searching for Text in Files with ripgrep](linux/ripgrep-search.md)
 - [Executing Commands on Found Files](linux/find-exec.md)
 - [Monitoring Processes with Top](linux/linux-top-cmd.md)
 - [Bash Brace Expansion](linux/bash-brace-expansion.md)
@@ -73,11 +74,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 6 |
 | Git | 9 |
 | Open Source | 5 |
-| Linux | 6 |
+| Linux | 7 |
 | Python | 6 |
 | Web Development | 1 |
 | Database | 1 |
-| **Total** | **34** |
+| **Total** | **35** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
