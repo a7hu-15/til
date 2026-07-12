@@ -10,6 +10,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [Linux](#linux)
 ## Python
 
+- [Merged Dictionary Operators in Python 3.9](python/python-merge-dictionary-operators.md)
 - [Pydantic V2 ConfigDict Configuration](python/pydantic-v2-config-dict.md)
 - [FastAPI Dependency Injection with Session](python/fastapi-dependency-injection.md)
 - [Strict Zip in Python](python/python-zip-strict.md)
@@ -72,10 +73,10 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Git | 8 |
 | Open Source | 5 |
 | Linux | 6 |
-| Python | 5 |
+| Python | 6 |
 | Web Development | 1 |
 | Database | 1 |
-| **Total** | **32** |
+| **Total** | **33** |
 ## Database
 
 - [PostgreSQL Default Roles on macOS Homebrew](database/postgres-macos-default-roles.md)
