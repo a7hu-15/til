@@ -47,6 +47,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 - [React useEffect Cleanup](open-source/react-useeffect-cleanup.md)
 - [How to Review a Pull Request](open-source/how-to-review-a-pr.md)
 - [Writing Good GitHub Issues](open-source/writing-good-issues.md)
+- [Lessons from Open Source Contributions](open-source/open-source-contribution-lessons.md)
 
 ## Linux
 
@@ -75,12 +76,12 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 |----------|-------|
 | DevOps | 7 |
 | Git | 9 |
-| Open Source | 5 |
+| Open Source | 6 |
 | Linux | 7 |
 | Python | 6 |
 | Web Development | 2 |
 | Database | 2 |
-| **Total** | **38** |
+| **Total** | **39** |
 ## Database
 
 - [Executing SQL Statements Directly via psql](database/psql-command-execution.md)
