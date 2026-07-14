@@ -20,6 +20,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## DevOps
 
+- [Cleaning Up Docker Resources](devops/docker-cleanup.md)
 - [Checking Resource Usage of Docker Containers](devops/docker-stats.md)
 - [Running Alembic Migrations](devops/alembic-migrations-upgrade.md)
 - [Following Docker Logs](devops/docker-logs-follow.md)
@@ -78,14 +79,14 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 
 | Category | Count |
 |----------|-------|
-| DevOps | 7 |
+| DevOps | 8 |
 | Git | 11 |
 | Open Source | 6 |
 | Linux | 9 |
 | Python | 6 |
 | Web Development | 2 |
 | Database | 2 |
-| **Total** | **43** |
+| **Total** | **44** |
 ## Database
 
 - [Executing SQL Statements Directly via psql](database/psql-command-execution.md)
