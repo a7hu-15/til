@@ -32,6 +32,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Git
 
+- [Amending the Last Commit](git/git-commit-amend.md)
 - [Recovering Lost Commits with Reflog](git/git-reflog.md)
 - [Finding Bugs with Git Bisect](git/git-bisect.md)
 - [Viewing Commit History as a Graph](git/git-log-graph.md)
@@ -81,13 +82,13 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | Category | Count |
 |----------|-------|
 | DevOps | 9 |
-| Git | 11 |
+| Git | 12 |
 | Open Source | 6 |
 | Linux | 9 |
 | Python | 6 |
 | Web Development | 2 |
 | Database | 2 |
-| **Total** | **45** |
+| **Total** | **46** |
 ## Database
 
 - [Executing SQL Statements Directly via psql](database/psql-command-execution.md)
