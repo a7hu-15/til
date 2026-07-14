@@ -53,6 +53,7 @@ A collection of concise write-ups on small things I learn day to day across a va
 
 ## Linux
 
+- [Grep Context Flags](linux/grep-context.md)
 - [Searching for Text in Files with ripgrep](linux/ripgrep-search.md)
 - [Executing Commands on Found Files](linux/find-exec.md)
 - [Monitoring Processes with Top](linux/linux-top-cmd.md)
@@ -79,11 +80,11 @@ This is my personal learning journal. I write about things I learn in DevOps, CL
 | DevOps | 7 |
 | Git | 11 |
 | Open Source | 6 |
-| Linux | 7 |
+| Linux | 8 |
 | Python | 6 |
 | Web Development | 2 |
 | Database | 2 |
-| **Total** | **41** |
+| **Total** | **42** |
 ## Database
 
 - [Executing SQL Statements Directly via psql](database/psql-command-execution.md)
